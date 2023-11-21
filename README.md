@@ -141,17 +141,13 @@ take screenshot of the output
 
 # Output:
 
-![map](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/377abf39-def3-4fe5-9146-7186691de631)
+![Uploading Screenshot 2023-11-21 200608.png…]()
 
-![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/6f91e978-0a6d-4885-b72c-ef4a3aed46a3)
-
-![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/7d5f8739-9975-4a02-8eb1-aa88e75f02ac)
-
-![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/af12d033-d3a7-4a37-a3e0-f5bb84913a50)
-
-![Screenshot 2023-11-21 210625](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/8540bb64-8fe3-4191-b5bd-c610b8fbad47)
-
-![Screenshot 2023-11-21 205644](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/4f872204-c30b-465b-a0f0-a5233476c738)
+![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/a5d59d22-7dbc-4b7a-9bd3-c7c178222217)
+![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/8253082e-d724-4ddd-9801-ffe36afb37bd)
+![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/2e18fac9-96f1-4c55-b962-c6c8987175cf)
+![Screenshot 2023-11-21 210625](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/94dfe488-9f80-445c-b512-fb324192b855)
+![Uploading Screenshot 2023-11-21 205644.png…]()
 
 
 # Result:

@@ -141,13 +141,12 @@ take screenshot of the output
 
 # Output:
 
-![Uploading Screenshot 2023-11-21 200608.png…]()
 
 ![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/a5d59d22-7dbc-4b7a-9bd3-c7c178222217)
 ![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/8253082e-d724-4ddd-9801-ffe36afb37bd)
 ![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/2e18fac9-96f1-4c55-b962-c6c8987175cf)
 ![Screenshot 2023-11-21 210625](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/94dfe488-9f80-445c-b512-fb324192b855)
-![Uploading Screenshot 2023-11-21 205644.png…]()
+
 
 
 # Result:

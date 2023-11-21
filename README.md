@@ -1,4 +1,4 @@
-![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/a4658c47-d1d1-4f17-b072-b587c9cadfc9)# Places Around Me 
+# Places Around Me 
 NAME:SALINI A
 DEPT:IT
 REF:23008741
@@ -29,7 +29,7 @@ take screenshot of the output
 
 # Code:
 
-#map.html
+^map.html
 
 <html>
     <head>
@@ -57,7 +57,7 @@ take screenshot of the output
     </body>
 </html>
 
-#church.html
+^church.html
 
 <html>
     <head>
@@ -74,7 +74,7 @@ take screenshot of the output
 </html>
 
 
-#temple.html
+^temple.html
 
 
 <html>
@@ -91,7 +91,7 @@ take screenshot of the output
     </body>
 </html>
 
-#football.html
+^football.html
 
 <html>
     <head>
@@ -107,7 +107,7 @@ take screenshot of the output
     </body>
 </html>
 
-#park.html
+^park.html
 
 <html>
     <head>
@@ -123,7 +123,7 @@ take screenshot of the output
     </body>
 </html>
 
-#hospital.html
+^hospital.html
 
 <html>
     <head>
@@ -144,15 +144,11 @@ take screenshot of the output
 
 ![map](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/377abf39-def3-4fe5-9146-7186691de631)
 
-
-
 ![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/6f91e978-0a6d-4885-b72c-ef4a3aed46a3)
-
 
 ![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/7d5f8739-9975-4a02-8eb1-aa88e75f02ac)
 
 ![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/af12d033-d3a7-4a37-a3e0-f5bb84913a50)
-
 
 ![Screenshot 2023-11-21 210625](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/8540bb64-8fe3-4191-b5bd-c610b8fbad47)
 

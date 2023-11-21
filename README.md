@@ -144,8 +144,13 @@ take screenshot of the output
 
 ![Screenshot 2023-11-21 200608](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/e1fd49b6-46a2-4f9f-8e9c-6d506c9afca5)
 
+![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/9d111e3f-8e10-485c-aec5-8bba0cd991a8)
 
 
+![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/1f33b287-99c6-4181-a20f-f7a81bed3a5f)
+![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/b87ea6da-7d29-47d1-8316-9b9d706b0112)
+
+![Screenshot 2023-11-21 205644](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/ab60bebf-c0bb-4877-be02-3ebd72336934)
 
 
 ## Result :

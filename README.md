@@ -141,7 +141,10 @@ take screenshot of the output
 
  ## Output :
 
-![Screenshot 2023-11-21 200608](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/bf9511bd-3e12-4a56-800c-ba3bc243cb60)
+
+![Screenshot 2023-11-21 200608](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/e1fd49b6-46a2-4f9f-8e9c-6d506c9afca5)
+
+
 
 
 

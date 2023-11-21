@@ -28,7 +28,7 @@ create the html documents to be displayed when clicked on the location in image 
 take screenshot of the output
 
 # Code:
-~map.html
+`map.html
 
 <html>
     <head>
@@ -56,7 +56,7 @@ take screenshot of the output
     </body>
 </html>
 
-~church.html
+`church.html
 
 <html>
     <head>
@@ -73,7 +73,7 @@ take screenshot of the output
 </html>
 
 
-^temple.html
+`temple.html
 
 
 <html>
@@ -90,7 +90,7 @@ take screenshot of the output
     </body>
 </html>
 
-~football.html
+`football.html
 
 <html>
     <head>
@@ -106,7 +106,7 @@ take screenshot of the output
     </body>
 </html>
 
-~park.html
+`park.html
 
 <html>
     <head>
@@ -122,7 +122,7 @@ take screenshot of the output
     </body>
 </html>
 
-~hospital.html
+`hospital.html
 
 <html>
     <head>

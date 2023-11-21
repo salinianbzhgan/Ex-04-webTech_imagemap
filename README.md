@@ -142,13 +142,14 @@ take screenshot of the output
 # Output:
 
 
+![Screenshot 2023-11-21 200608](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/211cb92a-b1f0-4877-b58d-798b57dbd5f9)
 
-![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/a5d59d22-7dbc-4b7a-9bd3-c7c178222217)
-![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/8253082e-d724-4ddd-9801-ffe36afb37bd)
-![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/2e18fac9-96f1-4c55-b962-c6c8987175cf)
-![Screenshot 2023-11-21 210625](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/94dfe488-9f80-445c-b512-fb324192b855)
+![Screenshot 2023-11-21 202514](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/3622d274-99cb-429b-ac1a-090b2bf11235)
 
-
+![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/703ee20f-fc45-4b9c-8057-40921d241c08)
+![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/fdbea852-3bce-4c52-ab20-926cde97575c)
+![Screenshot 2023-11-21 210625](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/acdd5af0-57fb-4879-bc68-a7efdcfd14cd)
+![Screenshot 2023-11-21 205644](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/22219d9e-58eb-4c0b-b215-910e4b4d69e1)
 
 # Result:
 the output was verified successfully

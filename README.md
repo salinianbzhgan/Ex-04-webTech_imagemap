@@ -153,6 +153,12 @@ take screenshot of the output
 
 
 ![Screenshot 2023-11-21 203333](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/1f33b287-99c6-4181-a20f-f7a81bed3a5f)
+
+
+
+
+![Screenshot 2023-11-21 210625](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/30c89417-4264-4b09-8289-e3423935d018)
+
 ![Screenshot 2023-11-21 204719](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/b87ea6da-7d29-47d1-8316-9b9d706b0112)
 
 ![Screenshot 2023-11-21 205644](https://github.com/salinianbzhgan/Ex-04-webTech_imagemap/assets/145742862/ab60bebf-c0bb-4877-be02-3ebd72336934)

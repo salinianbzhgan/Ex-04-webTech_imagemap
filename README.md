@@ -29,8 +29,8 @@ take screenshot of the output
 
 # Code:
 
-```map.html
-
+## map.html
+```
 <html>
     <head>
         <title>My City</title>
@@ -57,8 +57,9 @@ take screenshot of the output
     </body>
 </html>
 
-```church.html
-
+```
+## church.html
+```
 <html>
     <head>
         <title>CHURCH OF CHRIST PARUTHIPET</title>
@@ -74,8 +75,9 @@ take screenshot of the output
 </html>
 
 
-```temple.html
-
+```
+## temple.html
+```
 <html>
     <head>
         <title>PACHAIAMMAN TEMPLE</title>
@@ -90,8 +92,9 @@ take screenshot of the output
     </body>
 </html>
 
-```football.html
-
+```
+## football.html
+```
 <html>
     <head>
         <title>CHENNAI INTERCITY FOOTBALL ACADEMY</title>
@@ -106,8 +109,9 @@ take screenshot of the output
     </body>
 </html>
 
-```park.html
-
+```
+## park.html
+```
 <html>
     <head>
         <title>THANGAL PARK</title>
@@ -122,8 +126,9 @@ take screenshot of the output
     </body>
 </html>
 
-```hospital.html
-
+```
+## hospital.html
+```
 <html>
     <head>
         <title>THE MADRAS MEDICAL MISSION HOSPITAL</title>
@@ -137,7 +142,7 @@ take screenshot of the output
         </ul>
     </body>
 </html>
-
+```
 
  ## Output :
 
